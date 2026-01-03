@@ -1,0 +1,27 @@
+{
+    "source": "image",
+    "filename": "IMG_3829_JPG_jpg.rf.de1969e09db509080f3dedd9c90ecbc9.jpg",
+    "timestamp": "2026-01-03T13:52:45.649571",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.724,
+            "bbox": [
+                4,
+                75,
+                310,
+                512
+            ]
+        },
+        {
+            "label": "bare_hand",
+            "confidence": 0.661,
+            "bbox": [
+                67,
+                80,
+                318,
+                308
+            ]
+        }
+    ]
+}

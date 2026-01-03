@@ -1,0 +1,17 @@
+{
+    "source": "image",
+    "filename": "ppe_0185_jpg.rf.73853ad3ed73e888597278af80927279.jpg",
+    "timestamp": "2026-01-03T13:52:47.587177",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.494,
+            "bbox": [
+                9,
+                313,
+                31,
+                344
+            ]
+        }
+    ]
+}

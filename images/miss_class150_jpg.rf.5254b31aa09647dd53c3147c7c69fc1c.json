@@ -1,0 +1,17 @@
+{
+    "source": "image",
+    "filename": "miss_class150_jpg.rf.5254b31aa09647dd53c3147c7c69fc1c.jpg",
+    "timestamp": "2026-01-03T13:52:46.179333",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.767,
+            "bbox": [
+                301,
+                469,
+                331,
+                512
+            ]
+        }
+    ]
+}

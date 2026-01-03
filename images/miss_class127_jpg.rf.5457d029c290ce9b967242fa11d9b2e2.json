@@ -1,0 +1,37 @@
+{
+    "source": "image",
+    "filename": "miss_class127_jpg.rf.5457d029c290ce9b967242fa11d9b2e2.jpg",
+    "timestamp": "2026-01-03T13:52:45.923875",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.802,
+            "bbox": [
+                301,
+                470,
+                331,
+                512
+            ]
+        },
+        {
+            "label": "bare_hand",
+            "confidence": 0.771,
+            "bbox": [
+                13,
+                412,
+                52,
+                464
+            ]
+        },
+        {
+            "label": "bare_hand",
+            "confidence": 0.723,
+            "bbox": [
+                113,
+                472,
+                154,
+                512
+            ]
+        }
+    ]
+}

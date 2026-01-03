@@ -1,0 +1,27 @@
+{
+    "source": "image",
+    "filename": "ricmond-20620-hb-cernye-101640330-1_jpg.rf.2ffcd50a611b428e6ea4ad68880e5abd.jpg",
+    "timestamp": "2026-01-03T13:52:49.472232",
+    "detections": [
+        {
+            "label": "gloved_hand",
+            "confidence": 0.972,
+            "bbox": [
+                250,
+                48,
+                460,
+                487
+            ]
+        },
+        {
+            "label": "gloved_hand",
+            "confidence": 0.932,
+            "bbox": [
+                72,
+                31,
+                277,
+                475
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "source": "image",
+    "filename": "ppe_0320_jpg.rf.1ab48661e1c8f48c597e5cea100e4eea.jpg",
+    "timestamp": "2026-01-03T13:52:47.856137",
+    "detections": [
+        {
+            "label": "gloved_hand",
+            "confidence": 0.434,
+            "bbox": [
+                67,
+                113,
+                182,
+                362
+            ]
+        }
+    ]
+}

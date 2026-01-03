@@ -1,0 +1,27 @@
+{
+    "source": "image",
+    "filename": "screenshot853_png_jpg.rf.732a07223808e595e1918331088bb1f8.jpg",
+    "timestamp": "2026-01-03T13:52:52.133477",
+    "detections": [
+        {
+            "label": "gloved_hand",
+            "confidence": 0.957,
+            "bbox": [
+                186,
+                51,
+                342,
+                180
+            ]
+        },
+        {
+            "label": "gloved_hand",
+            "confidence": 0.766,
+            "bbox": [
+                115,
+                160,
+                288,
+                373
+            ]
+        }
+    ]
+}

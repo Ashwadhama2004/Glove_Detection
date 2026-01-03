@@ -1,0 +1,17 @@
+{
+    "source": "image",
+    "filename": "Photin0314_jpg.rf.c615b07f3906f41a8583caeb6b7bfcb2.jpg",
+    "timestamp": "2026-01-03T13:52:47.304812",
+    "detections": [
+        {
+            "label": "bare_hand",
+            "confidence": 0.762,
+            "bbox": [
+                406,
+                429,
+                512,
+                511
+            ]
+        }
+    ]
+}
